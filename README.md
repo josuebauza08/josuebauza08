@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel Josué Bauza👋
 p align="left"
-img src="https://komarev.com/ghpvc/?josuebauza08=d..." alt="profile views"
+img src=https://github.com/josuebauza08 alt="profile views"
 p/
 **Ingeniero de Sistemas | Automatización | Integración de APIs | Optimización de Procesos**
 
