@@ -1,7 +1,5 @@
 # ¡Hola! Soy Miguel Josué Bauza👋
-p align="left"
-img src=https://github.com/josuebauza08 alt="profile views"
-p/
+
 **Ingeniero de Sistemas | Automatización | Integración de APIs | Optimización de Procesos**
 
 Soy un Ingeniero de Sistemas radicado en Nueva Esparta, Venezuela, apasionado por construir soluciones tecnológicas eficientes y escalables. Me especializo en la **automatización de flujos de trabajo, integración de sistemas complejos y optimización del rendimiento de aplicaciones y plataformas web...**. 
